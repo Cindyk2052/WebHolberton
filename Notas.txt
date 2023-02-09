@@ -1,0 +1,4 @@
+ssh root@serverip conexion remota al servidor
+uname: nombre del sistema
+man: manual del comando (ex: man uname)
+pwd: 
